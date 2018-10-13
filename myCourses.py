@@ -1,3 +1,4 @@
+
 import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
@@ -40,4 +41,3 @@ for i in l:
 for i in d.values():
     l1.append(i)
 
-print(l1)

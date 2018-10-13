@@ -18,5 +18,5 @@ for i in d2.keys():
             dirs = os.listdir(path)
             if name not in dirs:
                 driver.get(name)
-                """with open(name,'wb') as f:
-                    print(name)"""
+                
+           

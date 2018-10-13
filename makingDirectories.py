@@ -1,6 +1,9 @@
 from myCourses import l1
 import os
-path = 'C:\\Users\\sankalpjain\\Desktop\\Moodle'
+path = 'C:\\Users\\user-name\\Desktop\\Moodle'  #path of your Desktop with the directory Moodle specified
+                                                #change the directory name as per your wish
+
+
 
 
 if not os.path.exists(path):
